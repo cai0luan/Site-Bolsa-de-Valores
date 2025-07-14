@@ -20,7 +20,6 @@
 <br>
 
 ### Visualização do Projeto
-*(Substitua `preview.png` por `preview.gif` se você criou um GIF)*
 <p align="center">
   <img src="./public/preview.png" alt="Demonstração do Painel Financeiro">
 </p>
