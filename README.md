@@ -1,7 +1,7 @@
 # 📈 Painel Financeiro Dinâmico
 
 [![Licença: MIT](https://img.shields.io/badge/Licença-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub repo size](https://img.shields.io/github/repo-size/cailuan/Site-Bolsa-de-Valores)](https://github.com/cailuan/Site-Bolsa-de-Valores)
+[![GitHub repo size](https://img.shields.io/github/repo-size/cai0luan/Site-Bolsa-de-Valores)](https://github.com/cai0luan/Site-Bolsa-de-Valores)
 
 <p align="center">
   Um painel de análise de mercado de ações interativo e responsivo, construído com React e Vite, que consome dados reais de uma API externa para fornecer simulações e visualizações dinâmicas.
@@ -11,7 +11,7 @@
 
 **Acesse a demonstração ao vivo clicando no botão abaixo:**
 
-<a href="https://cailuan.github.io/Site-Bolsa-de-Valores/" target="_blank">
+<a href="https://cai0luan.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Acessar%20Projeto-Online-brightgreen?style=for-the-badge&logo=vercel" alt="Acessar Projeto"/>
 </a>
 
@@ -53,4 +53,4 @@ Para rodar este projeto em sua máquina, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/cailuan/Site-Bolsa-de-Valores.git
+   git clone https://github.com/cai0luan/Site-Bolsa-de-Valores.git
